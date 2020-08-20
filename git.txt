@@ -1,0 +1,12 @@
+Create a Repository:
+right corner-> click on + sign-> create repository
+
+https://github.com/ArchanaHassan/gitDemoRepo.git
+
+=======================================
+How to generate SSH key for gitHub
+
+$ ssh-keygen -t rsa -b 4096 -C "archanakl.05@gmail.com"
+
+Note : Error :  when you are copying the command line check $ sysmbole if it copied twice then it will through commond not found error
+
